@@ -3,3 +3,8 @@ Disaster Management Hub is a web application that people can use in times of dis
 
 Technologies:
 
+PHP 
+MYsql 
+Javascript and JQuery 
+Google Maps
+
